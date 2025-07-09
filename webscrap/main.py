@@ -1,3 +1,5 @@
+import header
+
 def main():
     return 0
 
