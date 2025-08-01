@@ -1,3 +1,9 @@
+# Project itself
+db/
+.venv/
+tests/html/
+tests/mal_headers.txt
+
 # Prerequisites
 *.d
 
