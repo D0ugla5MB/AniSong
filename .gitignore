@@ -3,6 +3,7 @@ db/
 .venv/
 tests/html/
 tests/mal_headers.txt
+.doc.*
 
 # Prerequisites
 *.d
